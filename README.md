@@ -1,0 +1,2 @@
+# Match-Sever-Manager
+Orginally spawned as YeGods Match Server Manager for SourceMod back in 2007. To make managing match servers a lot easier with minimal plugin overhead, especially around the time that Eventscripts by mattie was the only other viable option (Which gave quite a big overhead on the server resources). This is still a WIP that I'm adding to overtime and updating for the latest SourceMod and approaching a more generic method.  STILL ALPHA SOFTWARE - SO USE AT YOUR OWN RISK
